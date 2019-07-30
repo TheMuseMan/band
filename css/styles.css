@@ -1,0 +1,16 @@
+body {
+  background-color: #ffb677;
+}
+h1 { color: #930077}
+h2 {color: #930077}
+h3{ color: #930077}
+h4{color: #930077}
+p {color: #930077}
+a:link {color: #930077}
+td {color:#930077}
+hr {
+  border-style: dotted none none;
+  border-color: #930077;
+  border-width: 5px;
+  width: 5%;
+}
